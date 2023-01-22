@@ -1,0 +1,15 @@
+{
+  "name": "Signal-K Dashboard",
+  "short_name": "Dashboard",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#47654",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "192x192",
+      "type": "imag"
+    }
+  ]
+}
